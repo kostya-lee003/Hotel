@@ -2,6 +2,7 @@ package com.company;
 
 import java.util.ArrayList;
 
+
 public class Janitor {
     String name;
     ArrayList<Room> rooms = new ArrayList<>(3);
@@ -14,4 +15,5 @@ public class Janitor {
         this.rooms = rooms;
         this.name = name;
     }
+
 }
