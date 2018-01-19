@@ -15,5 +15,4 @@ public class Janitor {
         this.rooms = rooms;
         this.name = name;
     }
-
 }
